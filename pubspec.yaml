@@ -1,10 +1,10 @@
 name: thrifty
 description: complete all in one solution for thrift stores in nepal
-publish_to: 'none'
-version: 1.0
+publish_to: "none"
+version: 1.0.0
 
 environment:
-  sdk: '>=2.19.0 <4.0.0'
+  sdk: ">=2.19.0 <4.0.0"
 
 dependencies:
   flutter:
