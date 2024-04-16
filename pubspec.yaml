@@ -1,7 +1,7 @@
-name: flutter_appwrite_starter
-description: Complete starter template for Flutter + Appwrite projects
+name: thrifty
+description: complete all in one solution for thrift stores in nepal
 publish_to: 'none'
-version: 1.0.0+1
+version: 1.0
 
 environment:
   sdk: '>=2.19.0 <4.0.0'
