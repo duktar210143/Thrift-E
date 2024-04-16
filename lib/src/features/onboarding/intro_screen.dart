@@ -1,7 +1,7 @@
 import 'package:appwrite/models.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_appwrite_starter/src/auth_notifier/auth_notifier.dart';
-import 'package:flutter_appwrite_starter/src/providers.dart';
+import 'package:thrifty/src/auth_notifier/auth_notifier.dart';
+import 'package:thrifty/src/providers.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import '../../l10n/app_localizations.dart';

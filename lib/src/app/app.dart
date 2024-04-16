@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_appwrite_starter/src/router/router.dart';
+import 'package:thrifty/src/router/router.dart';
 import 'package:get_it/get_it.dart';
 import '../l10n/app_localizations.dart';
 import '../providers.dart';

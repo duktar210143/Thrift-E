@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_appwrite_starter/src/themes/colors.dart';
+import 'package:thrifty/src/themes/colors.dart';
 
 class Avatar extends StatelessWidget {
   final ImageProvider<dynamic>? image;

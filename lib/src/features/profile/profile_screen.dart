@@ -1,10 +1,10 @@
 import 'dart:typed_data';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_appwrite_starter/src/app/app_constants.dart';
-import 'package:flutter_appwrite_starter/src/appwrite/appwrite.dart';
-import 'package:flutter_appwrite_starter/src/components/avatar.dart';
-import 'package:flutter_appwrite_starter/src/providers.dart';
+import 'package:thrifty/src/app/app_constants.dart';
+import 'package:thrifty/src/appwrite/appwrite.dart';
+import 'package:thrifty/src/components/avatar.dart';
+import 'package:thrifty/src/providers.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:get_it/get_it.dart';
 import 'package:go_router/go_router.dart';

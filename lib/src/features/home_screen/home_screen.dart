@@ -1,8 +1,8 @@
 import 'package:flag/flag.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_appwrite_starter/src/features/profile/profile_screen.dart';
-import 'package:flutter_appwrite_starter/src/l10n/app_localizations.dart';
-import 'package:flutter_appwrite_starter/src/themes/assets.dart';
+import 'package:thrifty/src/features/profile/profile_screen.dart';
+import 'package:thrifty/src/l10n/app_localizations.dart';
+import 'package:thrifty/src/themes/assets.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:go_router/go_router.dart';

@@ -1,12 +1,12 @@
 import 'dart:typed_data';
 import 'package:flutter/material.dart';
-import 'package:flutter_appwrite_starter/src/features/profile/crop_screen.dart';
-import 'package:flutter_appwrite_starter/src/features/welcome/welcome_screen.dart';
-import 'package:flutter_appwrite_starter/src/features/home_screen/home_screen.dart';
-import 'package:flutter_appwrite_starter/src/features/onboarding/intro_screen.dart';
-import 'package:flutter_appwrite_starter/src/features/profile/edit_profile_screen.dart';
-import 'package:flutter_appwrite_starter/src/features/profile/profile_screen.dart';
-import 'package:flutter_appwrite_starter/src/providers.dart';
+import 'package:thrifty/src/features/profile/crop_screen.dart';
+import 'package:thrifty/src/features/welcome/welcome_screen.dart';
+import 'package:thrifty/src/features/home_screen/home_screen.dart';
+import 'package:thrifty/src/features/onboarding/intro_screen.dart';
+import 'package:thrifty/src/features/profile/edit_profile_screen.dart';
+import 'package:thrifty/src/features/profile/profile_screen.dart';
+import 'package:thrifty/src/providers.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
 
